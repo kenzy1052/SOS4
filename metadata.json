@@ -1,0 +1,6 @@
+{
+  "name": "Student OS - Academic Operations",
+  "description": "A comprehensive academic operating system featuring course hubs, deadline tracking, exam scheduling, and interactive GPA simulation with clean modern navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
